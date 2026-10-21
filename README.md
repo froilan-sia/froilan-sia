@@ -12,7 +12,7 @@ I build practical AI systems, from retrieval-augmented generation (RAG) pipeline
 | **[m1_multimodal_rag](https://github.com/froilan-sia/m1_multimodal_rag)** | Privacy-first multimodal RAG running locally on Apple Silicon. | Python |
 | **[finance-ontology-rag](https://github.com/froilan-sia/finance-ontology-rag)** | An ontology for structuring financial documents for semantic retrieval and GraphRAG pipelines. | Python |
 | **[kids-chinese-flashcards](https://github.com/froilan-sia/kids-chinese-flashcards-showcase)** | A native iOS flashcard app for kids, featuring on-device text-to-speech and a 3-way flip mechanic. *(Code is private)* | Flutter, Dart |
-| **[awshackaton2025](https://github.com/froilan-sia/awshackaton2025)** | Hackathon project focused on AWS-native migration design. | TypeScript |
+| **[awshackaton2025](https://github.com/froilan-sia/awshackaton2025)** | Hackathon project focused on AWS-native migration design. | Python, TypeScript |
 
 ---
 
